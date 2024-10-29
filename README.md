@@ -15,11 +15,3 @@ Hello everyone, my name is Lautaro, but my friends call me Lau. I am studying Sy
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=laubrap&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laubrap&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=laubrap&theme=gruvbox" />  
-<a href="https://github.com/laubrap/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laubrap&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/laubrap/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laubrap&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/laubrap/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laubraprepo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/laubrap/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laubrap&repo=logstash-pipelines&theme=gruvbox""></a>  
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
