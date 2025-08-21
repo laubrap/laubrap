@@ -8,5 +8,5 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20systems%20engineering;Interested%20in%20cybersecurity%20;and%20software%20developmentACfont=&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20systems%20engineering;Interested%20in%20cybersecurity%20;and%20software%20development;ACfont=&center=true&width=440&height=45"></a>
 </p>
