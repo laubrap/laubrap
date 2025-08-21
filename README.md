@@ -11,8 +11,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20systems%20engineering;Interested%20in%20cybersecurity%20;and%20software%20development;&center=true&width=440&height=45"></a>
 </p>
 
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
+  <em>
+      I’m currently studying Systems Engineering and I’m in the second year of my degree. I’m interested in the field of cybersecurity because it’s a subject I’m genuinely passionate about and enjoy learning more about.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
