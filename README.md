@@ -13,11 +13,8 @@
 
 <p align="center">
   <em>
-      I’m currently studying Systems Engineering and I’m in the second year of my degree. I’m interested in the field of cybersecurity because it’s a subject I’m genuinely passionate about and enjoy learning more about.
+      I’m currently studying Systems Engineering and I’m in the second year of my degree. I’m especially interested in cybersecurity and software development, as these are subjects I’m truly passionate about and enjoy learning and exploring
   </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-
 
 
 ## 🛠 &nbsp;Tech Stack
