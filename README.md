@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20systems%20engineering;Interested%20in%20cybersecurity%20;and%20software%20development;&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center" font-size: 24px;">
+<p align="center" font-size: 40px;">
   <em>
       I’m currently studying Systems Engineering and I’m in the second year of my degree. I’m especially interested in cybersecurity and software development, as these are subjects I’m truly passionate about and enjoy learning and exploring
   </em> 
